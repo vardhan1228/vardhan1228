@@ -118,10 +118,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vardhan1228/vardhan1228/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/vardhan1228/count.svg?"  />
 </div>
