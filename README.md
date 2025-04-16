@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm ... from Tiruvuru <br><br>- 🔭 I’m srivardhan.<br>- 📚 I'm currently learning aws and Devops.<br>- ⚡ In my free time I play the games and revision the topics.</p>
+<p align="left" HEy hai all of you <br><br>- 🔭 I’m srivardhan.<br>- ⚡ In my free time I play the games and revision the topics.</p>
 
 ###
 
