@@ -72,8 +72,8 @@
   <strong>📊 Monitoring & Logging:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
-  <img src="https://d33wubrfki0l68.cloudfront.net/1e7b0c005a0e545f7caaf5aca534421721cc5a70/48637/images/aws/00-icons/cloudwatch.png" height="40" title="AWS CloudWatch" alt="AWS CloudWatch"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/splunk-2.svg" height="40" title="Splunk" alt="Splunk"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/1e7b0c005a0e545f7caaf5aca534421721cc5a70/48637/images/aws/00-icons/cloudwatch.png" height="50" title="AWS CloudWatch" alt="AWS CloudWatch"/>
+  <img src="https://assets.stickpng.com/thumbs/629b44de95f79dc9fa7256ef.png" height="59" title="Splunk" alt="Splunk"/>
   <br><br>
 
   <strong>💻 Languages & IDEs:</strong><br>
