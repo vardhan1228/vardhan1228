@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
   <img src="https://cms.cdata.com/media/qm4bm0ks/20190131-elasticsearch-driver-difference-1.png" height="40" title="Elasticsearch" alt="Elasticsearch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Kibana_logo.svg" height="40" title="Kibana" alt="Kibana"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/38/Kibana_logo.svg](https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23bb7e21b4d24f8292b6ad_Kibana.png)" height="40" title="Kibana" alt="Kibana"/>
   <img src="https://www.vectorlogo.zone/logos/logstash/logstash-icon.svg" height="40" title="Logstash" alt="Logstash"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/aws-cloudwatch-1869033-1583151.png" height="40" title="AWS CloudWatch" alt="AWS CloudWatch"/>
   <img src="https://cdn.worldvectorlogo.com/logos/splunk-2.svg" height="40" title="Splunk" alt="Splunk"/>
