@@ -72,6 +72,11 @@
   <strong>📊 Monitoring & Logging:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/elasticsearch-icon-512x512-n4xxzq3x.png" height="40" title="Elasticsearch" alt="Elasticsearch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Kibana_logo.svg" height="40" title="Kibana" alt="Kibana"/>
+  <img src="https://www.vectorlogo.zone/logos/logstash/logstash-icon.svg" height="40" title="Logstash" alt="Logstash"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/aws-cloudwatch-1869033-1583151.png" height="40" title="AWS CloudWatch" alt="AWS CloudWatch"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/splunk-2.svg" height="40" title="Splunk" alt="Splunk"/>
   <br><br>
 
   <strong>💻 Languages & IDEs:</strong><br>
