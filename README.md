@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/srivardhan1228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=srivardhan&color=0077B5&logoColor=red&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=srivardhan&color=0077B5&logoColor=red&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/sri_vardhan_vallabhaneni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
   <a href="mailto:vvardhan2211@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=yellow&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=yellow&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vardhan1228.vardhan1228&left_color=darkgreen&right_color=peru&left_text=Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vardhan1228.vardhan1228&left_color=darkgreen&right_color=peru&left_text=Visitors" />
 </div>
 
 ###
@@ -37,12 +37,13 @@
 ###
 
 <p align="left">
-  Hello everyone! I'm Srivardhan, a passionate and aspiring Multicloud DevOps Engineer 🚀. <br><br>
-  - 🔭 Currently exploring and building automation workflows across AWS, Azure, and GCP.<br>
-  - 💡 Learning Infrastructure as Code (Terraform, Ansible), CI/CD pipelines, and cloud-native tools.<br>
-  - 🌐 Strong understanding of Linux environments, networking, and cloud security best practices.<br>
-  - 🎯 Seeking entry-level DevOps opportunities to contribute and grow in dynamic environments.<br>
-  - ⚡ In my free time, I love gaming, revising technical topics, and exploring open-source tools.
+  Hello everyone! I'm <strong>Srivardhan</strong>, a highly motivated and passionate <strong>Multicloud DevOps Engineer</strong> 🚀.<br><br>
+  - 🌩 Hands-on experience with AWS, Azure, and GCP cloud platforms.<br>
+  - 🔄 Enthusiastic about automating deployments, scaling systems, and simplifying operations.<br>
+  - 🛠 Skilled in Infrastructure as Code using <strong>Terraform</strong> & <strong>Ansible</strong>, and building resilient CI/CD pipelines.<br>
+  - 🐧 Proficient with Linux environments, scripting, containerization, and monitoring tools.<br>
+  - 🌱 Constantly learning and growing — because DevOps never sleeps!<br>
+  - 🎮 Fun fact: When I'm not scripting or deploying, I’m probably gaming or binge-watching tech content.
 </p>
 
 ###
@@ -52,12 +53,13 @@
 ###
 
 <div align="left">
-  <strong>Cloud Platforms:</strong><br>
+  <strong>☁️ Cloud Platforms:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
   <br><br>
-  <strong>DevOps & Automation:</strong><br>
+
+  <strong>⚙️ DevOps & Automation:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
@@ -66,20 +68,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40"/>
   <br><br>
-  <strong>Monitoring & Logging:</strong><br>
+
+  <strong>📊 Monitoring & Logging:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40"/>
   <br><br>
-  <strong>Languages & IDEs:</strong><br>
+
+  <strong>💻 Languages & IDEs:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
   <br><br>
-  <strong>OS & Servers:</strong><br>
+
+  <strong>🖥 Operating Systems & Servers:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
@@ -90,12 +94,12 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vardhan1228&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=vardhan1228&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
-<h3 align="center">🌩 Multicloud DevOps Enthusiast</h3>
+<h3 align="center">🌍 Multicloud | 🔁 Automation | ⚙️ DevOps Enthusiast</h3>
 
 ###
 
