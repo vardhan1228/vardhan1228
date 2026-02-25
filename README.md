@@ -122,8 +122,10 @@ Fun Fact  : When not deploying infra, I'm gaming
 | ☸️ **Kubernetes** | Container orchestration, scaling & self-healing |
 | 🔵 **ArgoCD** | GitOps-based declarative continuous deployment |
 | ⚙️ **Jenkins / GitHub Actions** | Automated build, test & release pipelines |
+| 🟣 Maven | Build automation and dependency management tool |
+| 🟢 SonarQube | Code quality analysis and security vulnerability scanning |
 | ⛵ **Helm** | Kubernetes application templating & versioning |
-| 🔄 **CircleCI** | Cloud-native CI/CD automation |
+| 🔄 **Gitlab CiCd** | Cloud-native CI/CD automation |
 
 </div>
 
