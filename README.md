@@ -138,14 +138,14 @@ Hello everyone! I'm **Srivardhan Vallabhaneni**, a highly motivated and passiona
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vardhan1228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan1228&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vardhan1228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vardhan1228&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vardhan1228&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vardhan1228&theme=tokyonight&row=2&column=3"/>
 </p>
 
 ### 📈 Contribution Activity
@@ -158,7 +158,7 @@ Hello everyone! I'm **Srivardhan Vallabhaneni**, a highly motivated and passiona
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - 🏅 Earn advanced cloud certifications (AWS Solutions Architect Pro / GCP Professional / Azure Expert).
 - 🔁 Build end-to-end GitOps pipelines using ArgoCD & Flux.
