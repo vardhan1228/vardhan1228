@@ -68,14 +68,19 @@ Fun Fact  : When not deploying infra, I'm gaming
 
 ### ☁️ Cloud Platforms
 
-<div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60"/> |
-|:---:|:---:|:---:|
-| **Amazon Web Services**    |     **Microsoft Azure** |         **Google Cloud Platform** |
-| EC2 · EKS · Lambda · RDS<br/>S3 · VPC · IAM · CloudFront<br/>ECR · ECS · Route53 · WAF | AKS · ACR · Azure DevOps<br/>VNet · Blob Storage · AAD<br/>ARM Templates · Functions | GKE · GCS · Cloud Run<br/>BigQuery · Pub/Sub<br/>Cloud Build · Artifact Registry |
+#### AWS
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
-</div>
+#### Azure
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Blob](https://img.shields.io/badge/Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+#### GCP
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud_Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
