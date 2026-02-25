@@ -243,21 +243,6 @@ Fun Fact  : When not deploying infra, I'm gaming
 
 <br/>
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vardhan1228&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-### 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vardhan1228&theme=tokyonight&hide_border=false&border_radius=10&mode=daily" height="220"/>
-</div>
-
-<br/>
 
 ### 🔥 GitHub Streak
 
