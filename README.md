@@ -145,7 +145,7 @@ Hello everyone! I'm **Srivardhan Vallabhaneni**, a highly motivated and passiona
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=vardhan1228&theme=tokyonight&row=2&column=3&no-frame=true&margin-w=10"/>
+  <img src="https://streak-stats.demolab.com?user=vardhan1228&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 📈 Contribution Activity
