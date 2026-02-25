@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About Me
 
-Hello everyone! I'm **Srivardhan**, a highly motivated and passionate **Multicloud DevOps Engineer & Full Stack Developer** 🚀, based in **Hyderabad**.
+Hello everyone! I'm **Srivardhan Vallabhaneni**, a highly motivated and passionate **Multicloud DevOps Engineer** 🚀, based in **Hyderabad**.
 
 - 🌩 Hands-on experience with **AWS, Azure, and GCP** cloud platforms.
 - 🔄 Enthusiastic about automating deployments, scaling systems, and simplifying operations.
