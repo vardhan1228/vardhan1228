@@ -215,11 +215,12 @@ Fun Fact  : When not deploying infra, I'm gaming
 </div>
 
 <br/>
+
 ### 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=vardhan1228&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 <br/>
 
