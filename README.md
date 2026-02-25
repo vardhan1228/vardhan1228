@@ -23,7 +23,7 @@
 <h1 align="center">Hey there 👋 I'm Srivardhan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&center=true&width=500&lines=Multicloud+DevOps+Engineer;Full+Stack+Developer;Cloud+%7C+Automation+%7C+Infrastructure;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&center=true&width=500&lines=Multicloud+DevOps+Engineer;Cloud+Infrastructure+%7C+Automation;CI%2FCD+%7C+IaC+%7C+Containerization;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ###
@@ -79,23 +79,41 @@ Hello everyone! I'm **Srivardhan**, a highly motivated and passionate **Multiclo
   <img src="https://assets.stickpng.com/thumbs/629b44de95f79dc9fa7256ef.png" height="50" title="Splunk"/>
 </div>
 
-### 💻 Languages & Frameworks
+### 🔐 Security & Networking
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-006400?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 📦 Storage & Messaging
+
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS EBS](https://img.shields.io/badge/AWS_EBS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS_SNS-E7157B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### ⚡ Scripting & Automation Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL_Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 ### 🖥 Operating Systems & Servers
 
@@ -139,11 +157,12 @@ Hello everyone! I'm **Srivardhan**, a highly motivated and passionate **Multiclo
 
 ## 🎯 Goals for 2025
 
-- 🚀 Contribute to 5+ open source projects.
-- 📚 Deepen expertise in multicloud architecture & FinOps.
-- 🌟 Earn advanced certifications (AWS/GCP/Azure).
-- 📝 Write 3+ technical blog posts on DevOps & cloud.
-- 📈 Build and deploy a fully automated serverless application.
+- 🏅 Earn advanced cloud certifications (AWS Solutions Architect Pro / GCP Professional / Azure Expert).
+- 🔁 Build end-to-end GitOps pipelines using ArgoCD & Flux.
+- 📚 Deepen expertise in multicloud architecture, FinOps & cost optimization.
+- 🔒 Explore cloud security, compliance automation & DevSecOps practices.
+- 📝 Write technical blog posts on DevOps, cloud automation & real-world case studies.
+- ⚡ Architect and deploy a highly available, zero-downtime multi-region infrastructure.
 
 ---
 
@@ -165,7 +184,7 @@ Hello everyone! I'm **Srivardhan**, a highly motivated and passionate **Multiclo
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vardhan1228&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  <h3>🌍 Multicloud | 🔁 Automation | ⚙️ DevOps | 💻 Full Stack</h3>
+  <h3>🌍 Multicloud | 🔁 Automation | ⚙️ DevOps | 🔒 Cloud Security</h3>
 
   ### 🚀 *"Automate everything. Deploy anywhere. Learn always."*
 
