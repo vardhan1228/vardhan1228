@@ -231,13 +231,11 @@ Fun Fact  : When not deploying infra, I'm gaming
 
 <br/>
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vardhan1228&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=6"/>
+  <img src="https://streak-stats.demolab.com?user=vardhan1228&theme=tokyonight&hide_border=true"/>
 </div>
-
-<br/>
 
 ### 📈 Contribution Graph
 
