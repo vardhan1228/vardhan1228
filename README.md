@@ -72,7 +72,7 @@ Fun Fact  : When not deploying infra, I'm gaming
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60"/> |
 |:---:|:---:|:---:|
-| **Amazon Web Services** | **Microsoft Azure** | **Google Cloud Platform** |
+| **Amazon Web Services**    |     **Microsoft Azure** |         **Google Cloud Platform** |
 | EC2 · EKS · Lambda · RDS<br/>S3 · VPC · IAM · CloudFront<br/>ECR · ECS · Route53 · WAF | AKS · ACR · Azure DevOps<br/>VNet · Blob Storage · AAD<br/>ARM Templates · Functions | GKE · GCS · Cloud Run<br/>BigQuery · Pub/Sub<br/>Cloud Build · Artifact Registry |
 
 </div>
