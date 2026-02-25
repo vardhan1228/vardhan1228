@@ -206,10 +206,20 @@ Fun Fact  : When not deploying infra, I'm gaming
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardhan1228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan1228&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=vardhan1228&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vardhan1228&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vardhan1228&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<br/>
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vardhan1228&theme=tokyonight&hide_border=true"/>
+</p>
 
 <br/>
 
